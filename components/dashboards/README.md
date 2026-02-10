@@ -21,13 +21,12 @@ import { AdminDashboard } from '@/components/dashboards';
 ```
 
 ### ParticipantDashboard
+### ParticipantDashboard
 Participant-focused dashboard for viewing events and schedules.
-
-**Features:**
-- My Events widget
-- My Schedule widget
-- Notifications widget
-- Quick Actions
+**Features:**- My Events widget (registered, attended, upcoming counts)
+- My Schedule widget (today's events, this week, next event)
+- Notifications widget (event updates and reminders)
+- Quick Actions widget (browse events, view schedule, profile access)
 
 **Usage:**
 ```jsx
